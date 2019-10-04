@@ -1,0 +1,153 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+#full {
+
+	background-color: darkred;
+	width: 100%;
+	height: 870px;
+	position: relative;
+	
+}
+header {
+
+	background-color: gray;
+	top: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	width: 950px;
+	height: 50px;
+	position: absolute;
+
+}
+nav ul {
+	list-style: none;
+
+}
+nav ul li {
+	display: inline-block;
+	height: 30px;
+	line-height: 17px;
+	margin-left: 40px;
+	font-size: 0.9em;
+	color: white;
+	text-align: center;
+	margin-top: 17px;
+
+
+}
+
+.logo {
+	width: 180px;
+	height: 70px;
+	margin-left: 150px;
+	margin-top: 15px;
+}
+
+
+
+#uvod {
+
+	background-color: #39ac73;
+	top: 150px;
+	margin-left: 150px;
+	margin-right: 150px;
+	width: 950px;
+	height: 200px;
+	position: absolute;
+	display: flex;
+}
+.plane {
+	width: 110px;
+	height: 110px;
+	margin-left: 70px;
+	margin-top: 60px;
+}
+
+	
+#text {
+
+	color: white;
+	float: right;
+	margin-left: 85px;
+}
+h2 {
+
+	margin-top: 50px;
+}
+.uvodni {
+
+	margin-top: 20px;
+}
+
+
+
+#content {
+
+	width: 950px;
+	height: 500px;
+	margin-left: 150px;
+	margin-right: 150px;
+	bottom: 5px;
+	position: absolute;
+	background-color: gray;
+}
+#nav {
+
+	width: 250px;
+	height: 500px;
+	margin-left: 0px;
+	background-color: #a3c2c2;
+	position: absolute;
+}
+
+
+hr { 
+	color: white;
+	width: 170px;
+	margin-left: 30px;
+
+ }
+#main {
+
+	width: 700px;
+	height: 500px;
+	margin-left: 250px;
+	background-color: #e6e6e6;
+	position: absolute;
+}
+h3 {
+
+	float: left;
+	margin-top: 17px;
+	margin-left: 20px;
+	color: gray;
+}
+.glavni {
+
+	color: gray;
+	float: left;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.glavni2 {
+
+	color: gray;
+	float: left;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.glavni3 {
+
+	color: gray;
+	float: left;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+	
+
+
